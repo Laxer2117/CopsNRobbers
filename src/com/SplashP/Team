@@ -54,12 +54,3 @@ public class Teams {
                                         : TeamType.BLUE);
         }      
 }
- 
- 
-//Lax here is the TeamType enum
-package me.AcePilot10.TDM;
- 
-public enum TeamType {
-        RED,BLUE
- 
-}
